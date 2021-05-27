@@ -1,4 +1,4 @@
-# Pre-work - *Proposed Name: Tipsy ; Working in Progress Name: tipcalc-codepath*
+# Pre-work - *Proposed Name: Tipsy ; Work-in-Progress Name: tipcalc-codepath*
 
 **Tipsy** is a tip calculator application for iOS.
 
